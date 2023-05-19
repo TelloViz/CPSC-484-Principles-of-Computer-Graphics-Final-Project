@@ -7,4 +7,4 @@
 
 ![Example Test Render](TurnInVersion.png)
 
-~This version is scaled down(1024x576) from the original(1920x1080)~
+_This version is scaled down(1024x576) from the original(1920x1080)_
